@@ -6,9 +6,13 @@ Knowledge engine for mapping weapon and boon load-outs in the game Hades.
 
 Download from https://github.com/hrestey/codex-hephaestus
 
+## Purpose
+
+The Codex Hephaestus is a knowledge engine designed to map possible loadouts in the rogue-like game Hades ( https://store.steampowered.com/app/1145360/hades/ ), and help the player to select the most optimal boon from available options as they make their run through the Underworld. It accounts for the weapon & weapon aspect choosen for this run, Mirror of Night stats, selected and possible Keepsakes, and of course the many boons they can receive from the gods encountered on the run.
+
 ## Usage
 
-FIXME: explanation
+Not ready to be used yet.
 
 Run the project directly, via `:exec-fn`:
 
